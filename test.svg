@@ -1,1 +1,1 @@
-<svg><script><![CDATA[alert('lol')]]><//script><rect x='50' y=50' width='0' height='25' fill='red' //><//svg>
+<svg><script><![CDATA[alert('lol')]]></script><rect x='50' y=50' width='0' height='25' fill='red' /></svg>
